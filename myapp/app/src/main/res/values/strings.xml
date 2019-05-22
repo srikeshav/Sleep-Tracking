@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CureFit</string>
+    <string name="channelId">1st channel</string>
+    <string name="title_activity_user">UserActivity</string>
+</resources>
